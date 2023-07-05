@@ -1,4 +1,4 @@
-
+# I WROTE THIS TO SCRAPE RYM LISTS
 # USING SELENIUM VERSION 4
 
 # Import the selenium webdriver module
