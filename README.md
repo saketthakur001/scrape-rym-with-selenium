@@ -30,15 +30,6 @@ Rate Your Music (RYM) is a popular platform where users can rate and review musi
 pip install -r requirements.txt
 ```
 
-## Usage
-
-1. Update the configuration settings in `config.py` file to customize the scraping process (e.g., specify the desired genres, release date range, etc.).
-2. Run the scraper using the following command:
-
-```bash
-python scraper.py
-```
-
 3. The scraper will start collecting data from Rate Your Music based on your configured settings.
 4. The scraped data will be saved in a CSV file (`data.csv` by default) in the root directory.
 
